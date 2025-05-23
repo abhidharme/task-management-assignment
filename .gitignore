@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+coverage/
+
+# Logs
+logs
+*.log
+log.txt
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# React
+client/node_modules/
+client/build/
+client/.env
+client/.DS_Store
+
+# Test coverage
+coverage/
+
+# MongoDB dump
+dump/
+
+# Optional: Ignore database storage files
+*.local
+
+# Optional: Ignore local SSL certificates
+*.pem
+*.key
+cert/
